@@ -1,4 +1,4 @@
-module param-finder
+module github.com/m4konnen/param-finder
 
 go 1.19
 

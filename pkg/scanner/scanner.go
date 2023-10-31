@@ -4,9 +4,10 @@ import (
 	"errors"
 	"fmt"
 	"os"
-	"param-finder/pkg/utils"
 	"path/filepath"
 	"regexp"
+
+	"github.com/m4konnen/param-finder/pkg/utils"
 )
 
 type Finding struct {

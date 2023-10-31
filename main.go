@@ -4,8 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"param-finder/pkg/scanner"
-	"param-finder/pkg/utils"
+
+	"github.com/m4konnen/param-finder/pkg/scanner"
+	"github.com/m4konnen/param-finder/pkg/utils"
 
 	"github.com/akamensky/argparse"
 )
